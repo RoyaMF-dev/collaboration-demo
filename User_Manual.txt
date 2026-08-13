@@ -1,0 +1,10 @@
+User manual for scientists:
+
+Whenever you produce a new results:
+1. Save your data in a table and save the file with name 
+[Data_description]_[scientists_name]_[Date] in folder Data.
+
+2. Plot your results using plot.py and save the figure with 
+the same name as datafile, and save your figure in Figures folder.
+
+
